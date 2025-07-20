@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm AZMIN!
 
 🎓 I'm currently pursuing a degree in **Computer Science**.  
 💻 I'm learning the fundamentals of **web development using Java**, especially:
